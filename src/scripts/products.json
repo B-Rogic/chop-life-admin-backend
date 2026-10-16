@@ -1,0 +1,367 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Shawarma",
+    "description": "Packed with juicy fillings, sauces, and grilled perfection.",
+    "amount": [2800, 3500, 4500],
+    "image": "/images/secondCardImage.png",
+    "regular": true
+  },
+  {
+    "id": 2,
+    "name": "Chicken and Chips",
+    "description": "Choice of wings or drumsticks with crispy yam and potato chips.",
+    "amount": 5500,
+    "image": "/images/thirdCardImage.png"
+  },
+  {
+    "id": 3,
+    "name": "Spicy Fast Combo",
+    "description1": "Jollof Noodles - Smoky, party-style noodles",
+    "description2": "Pepper Chicken (2 Pieces) - Juicy and spicy!",
+    "amount": 0,
+    "save": 0,
+    "image": "/images/fourthCardImage.jpg",
+    "bgColor": "#ff003c",
+    "textColor": "#fff",
+    "bottom": "md:-bottom-[76%] -bottom-[48%]",
+    "comingSoon": true
+  },
+  {
+    "id": 4,
+    "name": "Chicken Lovers",
+    "description1": "Barbecue Chicken - Charred to perfection",
+    "description2": "Cocktail or Smoothie",
+    "amount": 0,
+    "save": 0,
+    "image": "/images/fifthCardImage.jpg",
+    "bgColor": "#ffcc00",
+    "textColor": "#000",
+    "bottom": "md:bottom-[-10%] -bottom-[5%]",
+    "comingSoon": true
+  },
+  {
+    "id": 5,
+    "name": "Smoothie Bliss Combo",
+    "description1": "Any 1 Large Smoothie - Choose from menu",
+    "description2": "Free Side Dish Add-on - Choose from Menu",
+    "amount": 0,
+    "save": 0,
+    "image": "/images/sixthCardImage.jpg",
+    "bgColor": "#1a1a1a",
+    "textColor": "#fff",
+    "bottom": "md:-bottom-[70%] -bottom-[10%]",
+    "comingSoon": true
+  },
+  {
+    "id": 6,
+    "name": "Chill & Sip Cocktail Special",
+    "description1": "Any 1 Signature Cocktail - Choose from Menu",
+    "description2": "1 Small Chops Box - Spring rolls, samosa, and peppered gizzard bites",
+    "amount": 0,
+    "save": 0,
+    "image": "/images/seventhCardImage.jpg",
+    "bgColor": "#0a9900",
+    "bottom": "md:-bottom-[90%] -bottom-[60%]",
+    "comingSoon": true
+  },
+  {
+    "id": 7,
+    "name": "Pizza Lovers' Feast",
+    "description1": "1 Large Pizza - Choose from Menu",
+    "description2": "1 Free Cocktail - Choose from menu",
+    "amount": 0,
+    "save": 0,
+    "image": "/images/eightCardImage.jpg",
+    "bgColor": "#ff9100",
+    "bottom": "md:-bottom-[5%] -bottom-[5%]",
+    "comingSoon": true
+  },
+  {
+    "id": 8,
+    "name": "Pizza",
+    "ingredients": "Soft crust pizza loaded with cheese, pepperoni, chicken, or veggies.",
+    "nutritionInfo": ["Calories: ~280 kcal", "Carbs: 32g", "Protein: 12g", "Fat: 14g"],
+    "alergies": "Gluten, Dairy, May contain soy",
+    "amount": [10000, 12000, 15000],
+    "image": "/images/smallPizza.jpg",
+    "categories": ["Small: 10,000", "Medium: 12,000", "Large: 15,000"]
+  },
+  {
+    "id": 9,
+    "name": "Pepperoni Pizza",
+    "ingredients": "Soft crust pizza loaded with cheese, pepperoni, chicken, or veggies.",
+    "nutritionInfo": ["Calories: ~280 kcal", "Carbs: 32g", "Protein: 12g", "Fat: 14g"],
+    "alergies": "Gluten, Dairy, May contain soy",
+    "amount": 3500,
+    "image": "/images/pepperoniPizza.jpg",
+    "comingSoon": true
+  },
+  {
+    "id": 10,
+    "name": "Garlic Supreme",
+    "ingredients": "Roasted garlic cloves, caramelized onions, mozzarella, parmesan, Alfredo sauce, fresh parsley",
+    "nutritionInfo": ["Calories: ~270", "Fat: 13g", "Carbohydrates: 27g", "Protein: 11g"],
+    "alergies": "Dairy, Gluten",
+    "amount": 25800,
+    "image": "/images/garlicSupreme.png",
+    "comingSoon": true
+  },
+  {
+    "id": 11,
+    "name": "Firecracker Inferno",
+    "ingredients": "Spicy pepperoni, jalapenos, crushed red pepper, mozzarella, marinara sauce, sriracha drizzle",
+    "nutritionInfo": ["Calories: ~280", "Fat: 14g", "Carbohydrates: 28g", "Protein: 12g"],
+    "alergies": "Dairy, Gluten",
+    "amount": 15800,
+    "image": "/images/firecracker.png",
+    "comingSoon": true
+  },
+  {
+    "id": 12,
+    "name": "Naija Jollof Pasta",
+    "ingredients": "Our twist on the classic Jollof - al dente pasta simmered in smoky tomato-pepper sauce, with sauteed onions, bell peppers, and spiced beef or chicken.",
+    "nutritionInfo": ["Calories: ~280", "Fat: 14g"],
+    "alergies": "None",
+    "amount": [3000, 6500],
+    "image": "/images/pasta.jpg",
+    "categories": ["Beef: 3,000", "Chicken: 6,500"]
+  },
+  {
+    "id": 13,
+    "name": "Spicy Noodles",
+    "ingredients": "Hot, steamy noodles tossed in a flavorful pepper blend.",
+    "nutritionInfo": ["Calories: ~480", "Fat: 22g", "Carbohydrates: 62g", "Protein: 7g"],
+    "alergies": "Dairy, Gluten",
+    "amount": [1800, 2000, 2200],
+    "image": "/images/noodles.jpg",
+    "categories": ["1 super pack & 2 eggs: 2,000", "1 hungryman & 2 eggs: 2,200", "2 indomietable & 2 eggs: 2,200"]
+  },
+  {
+    "id": 14,
+    "name": "Beef Shawarma",
+    "ingredients": "Packed with juicy fillings, sauces, and grilled perfection.",
+    "nutritionInfo": ["Calories: ~430", "Fat: 18g", "Carbohydrates: 64g", "Protein: 5g"],
+    "alergies": "Gluten",
+    "amount": [2800, 3500, 4500],
+    "image": "/images/beefSharwama.jpg",
+    "comingSoon": false
+  },
+  {
+    "id": 15,
+    "name": "White Rice and Stew",
+    "ingredients": "Fluffy long-grain white rice served with rich tomato stew made from fresh peppers, onions, and spices.",
+    "nutritionInfo": ["Calories: ~380 kcal", "Carbs: 70g", "Protein: 8g", "Fat: 9g"],
+    "alergies": "May contain traces of peanuts if cooked with groundnut oil.",
+    "amount": 3500,
+    "image": "/images/rice.jpg",
+    "comingSoon": true
+  },
+  {
+    "id": 16,
+    "name": "Jollof Rice",
+    "ingredients": "Smoky party-style jollof rice cooked in rich tomato sauce, served hot with veggies or optional proteins.",
+    "nutritionInfo": ["Calories: ~420 kcal", "Carbs: 75g", "Protein: 10g", "Fat: 12g"],
+    "alergies": "None (Check for sensitivity to tomatoes or pepper)",
+    "amount": 7000,
+    "image": "/images/jollofRice.jpg",
+    "chicken": "1"
+  },
+  {
+    "id": 17,
+    "name": "Peppered Beef",
+    "ingredients": "Tender beef chunks simmered and stir-fried in spicy pepper sauce. Perfect side for rice or as a standalone delight.",
+    "nutritionInfo": ["Calories: ~300 kcal", "Protein: 25g", "Fat: 18g"],
+    "alergies": "None",
+    "amount": 2000,
+    "image": "/images/pepperedBeef.jpg",
+    "beef": "/10 pieces"
+  },
+  {
+    "id": 18,
+    "name": "Barbecue Fish",
+    "ingredients": "Grilled whole tilapia or croaker, seasoned and basted in spicy marinade. Served with sides like Boli or salad.",
+    "nutritionInfo": ["Calories: ~600", "Fat: 22g", "Carbohydrates: 80g", "Protein: 16g"],
+    "alergies": "Gluten, Dairy",
+    "amount": 11000,
+    "image": "/images/barbecue.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Boli (Grilled Plantain)",
+    "ingredients": "Ripe plantain grilled to perfection, served with groundnut sauce or pepper mix.",
+    "nutritionInfo": ["Calories: ~230 kcal", "Carbs: 50g", "Fiber: 4g"],
+    "alergies": "May contain groundnut (optional sauce)",
+    "amount": 1000,
+    "image": "/images/boli.jpg",
+    "comingSoon": true
+  },
+  {
+    "id": 20,
+    "name": "Fried Rice",
+    "ingredients": "Savory stir-fried rice with veggies, sweet corn, green peas, and optional protein.",
+    "nutritionInfo": ["Calories: ~400 kcal", "Carbs: 65g", "Protein: 10g", "Fat: 11g"],
+    "alergies": "None (Check for vegetable allergies)",
+    "amount": 7000,
+    "image": "/images/friedRice.jpg",
+    "chicken": "1"
+  },
+  {
+    "id": 21,
+    "name": "Boiled Yam & Egg Sauce",
+    "ingredients": "Soft boiled yam slices served with spicy egg and tomato sauce. A classic and hearty dish.",
+    "nutritionInfo": ["Calories: ~350 kcal", "Carbs: 60g", "Protein: 12g", "Fat: 10g"],
+    "alergies": "Eggs",
+    "amount": 3000,
+    "image": "/images/yamEgg.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Classic Caesar Salad",
+    "ingredients": "Romaine lettuce, Parmesan cheese, Croutons, Caesar dressing (anchovies, eggs, Parmesan)",
+    "nutritionInfo": ["Calories: ~310", "Fat: 24g", "Carbohydrates: 17g", "Protein: 8g"],
+    "alergies": "Dairy, Gluten, Eggs",
+    "amount": 12500,
+    "image": "/images/caesarSalad.png",
+    "comingSoon": true
+  },
+  {
+    "id": 23,
+    "name": "Loaded Potato Wedges",
+    "ingredients": "Crispy potato wedges, cheddar cheese, bacon bits, sour cream, chives",
+    "nutritionInfo": ["Calories: ~520", "Fat: 28g", "Carbohydrates: 52g", "Protein: 12g"],
+    "alergies": "Dairy, Gluten",
+    "amount": 16500,
+    "image": "/images/loadedPotato.png",
+    "comingSoon": true
+  },
+  {
+    "id": 24,
+    "name": "BBQ Blaze",
+    "ingredients": "Grilled chicken, red onions, smoky BBQ sauce",
+    "nutritionInfo": ["Calories: ~290", "Fat: 12g", "Carbohydrates: 29g", "Protein: 15g"],
+    "alergies": "Gluten",
+    "amount": 8800,
+    "image": "/images/bbqBlaze.jpg",
+    "comingSoon": true
+  },
+  {
+    "id": 25,
+    "name": "Classic Cola",
+    "ingredients": "Carbonated water, high fructose corn syrup, caramel color, phosphoric acid, caffeine, natural flavor",
+    "nutritionInfo": ["Calories: 140", "Fat: 0g", "Carbohydrates: 39g", "Protein: 0g"],
+    "alergies": "None",
+    "amount": 2800,
+    "image": "/images/classicCola.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 26,
+    "name": "Lemon Ice Tea",
+    "ingredients": "Brewed black tea, lemon juice, sugar, ice",
+    "nutritionInfo": ["Calories: 120", "Fat: 0g", "Carbohydrates: 30g", "Protein: 0g"],
+    "alergies": "None",
+    "amount": 2800,
+    "image": "/images/lemonIce.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 27,
+    "name": "Coconut Water Cooler",
+    "ingredients": "Fresh coconut water, lime juice, mint leaves, ice",
+    "nutritionInfo": ["Calories: 60", "Fat: 0g", "Carbohydrates: 15g", "Protein: 0g"],
+    "alergies": "None",
+    "amount": 2800,
+    "image": "/images/coconutWater.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 28,
+    "name": "Orange Juice",
+    "ingredients": "Freshly squeezed oranges",
+    "nutritionInfo": ["Calories: 160", "Fat: 0g", "Carbohydrates: 38g", "Protein: 2g"],
+    "alergies": "None",
+    "amount": 2000,
+    "image": "/images/orangeJuice.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 29,
+    "name": "Strawberry Banana Smoothie",
+    "ingredients": "Strawberries, bananas, yoghurt, honey, ice",
+    "nutritionInfo": ["Calories: 210", "Fat: 2.5g", "Carbohydrates: 44g", "Protein: 5g"],
+    "alergies": "Dairy",
+    "amount": 6800,
+    "image": "/images/strawberrySmoothie.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 30,
+    "name": "Cold Brew Coffee",
+    "ingredients": "Cold-brewed coffee, ice",
+    "nutritionInfo": ["Calories: 5", "Fat: 0g", "Carbohydrates: 1g", "Protein: 0g"],
+    "alergies": "None",
+    "amount": 2800,
+    "image": "/images/brewCoffee.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 31,
+    "name": "Hot Chocolate",
+    "ingredients": "Milk, cocoa powder, sugar, whipped cream",
+    "nutritionInfo": ["Calories: 250", "Fat: 11g", "Carbohydrates: 32g", "Protein: 8g"],
+    "alergies": "Dairy",
+    "amount": 2800,
+    "image": "/images/chocolate.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 32,
+    "name": "Beer Float",
+    "ingredients": "Beer, vanilla ice cream",
+    "nutritionInfo": ["Calories: 280", "Fat: 8g", "Carbohydrates: 48g", "Protein: 4g"],
+    "alergies": "Dairy",
+    "amount": 2800,
+    "image": "/images/beerFloat.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 33,
+    "name": "Other Soda",
+    "ingredients": "Carbonated water, selected flavor, ice",
+    "nutritionInfo": ["Calories: 220", "Fat: 8g", "Carbohydrates: 34g", "Protein: 2g"],
+    "alergies": "None",
+    "amount": 1500,
+    "image": "/images/soda.png",
+    "volume": "1L",
+    "comingSoon": true
+  },
+  {
+    "id": 34,
+    "name": "Zobo Mojitos",
+    "ingredients": "A refreshing fusion of zobo, mint leaves, lime juice, white rum, and a hint of honey",
+    "nutritionInfo": ["High in antioxidants (from zobo)", "Low alcohol content", "Vitamin C Boost from lime"],
+    "alergies": "Alcohol",
+    "amount": 2500,
+    "image": "/images/zoboMojitos.jpg",
+    "comingSoon": true
+  },
+  {
+    "id": 35,
+    "name": "Naija Sunrise",
+    "ingredients": "Breaded mozzarella cheese sticks, marinara sauce for dipping",
+    "nutritionInfo": ["Calories: 450", "Fat: 25g", "Carbohydrates: 39g", "Protein: 18g"],
+    "alergies": "Dairy, Gluten, Eggs",
+    "amount": 2800,
+    "image": "/images/naijaSunrise.jpg",
+    "comingSoon": true
+  }
+]
